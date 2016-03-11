@@ -1,6 +1,6 @@
 DATA VIZ FOR ALL
 
-Julia Smith (Inst. for non profit news), Aaron Williams (washington post), Nathaniel Lash (tampa bay times)
+Julia Smith (Inst. for Nonprofit News), Aaron Williams (Washington Post), Nathaniel Lash (Tampa Bay Times)
 
 How is the planning process different when planning for mobile
 Williams: How the reader will come to the project. Where is the reader, as a mobile reader?
